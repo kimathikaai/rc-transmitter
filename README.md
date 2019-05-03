@@ -8,14 +8,14 @@ This repository holds the source code for my multifunctional radio controller. T
 \- Tactile buttons (x6)  
 \- IMU MPU6050 Accelerometer and Gyroscope (x1)
 
-### Circuit Diagram  
+## Circuit Diagram  
 *Add Later*
 
-### PCB Design   
+## PCB Design   
 *Add Later*
 
 ## Subdirectories
-* **transmitter\_code:**  
+* **transmitter\_code:** Transmitter source code 
   For wireless communication, the [SPI](https://www.arduino.cc/en/reference/SPI) and [RF24](https://github.com/nRF24/RF24) libraries are used. The [I2C](https://www.arduino.cc/en/reference/wire) libary is used for the accelerometer module.
   
   
