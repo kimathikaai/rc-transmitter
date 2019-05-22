@@ -22,3 +22,4 @@ This repository holds the source code for my multifunctional radio controller. T
 
 ## Acknowledgments
 * Vincent Driessen's '[Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)'
+* Guides from Dejan's '[How to Mechatronics](https://howtomechatronics.com/author/howtom12_wp/)' 
